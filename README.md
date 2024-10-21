@@ -5,21 +5,12 @@ This repository contains a Jupyter Notebook that performs an analysis of sugarca
 Before running the code in the notebook, make sure you have the required libraries installed. If you don't have them, you can install them using pip:
 
 pip install pandas seaborn matplotlib
-
-# Table of Contents
-  Description
-  Setup
-  Dataset
-  Data Cleaning
-  Univariate Analysis
-  Bivariate Analysis
-  Correlation Analysis
-  Analysis by Continent
-  Conclusion
+# Content
 
 # Dataset
 The dataset contains information about sugarcane production in various countries. It includes the following columns:
-  Country: The name of the country.
+  
+  Country: The name of the country./n
   Continent: The continent where the country is located.
   Production(Tons): Total sugarcane production in tons.
   Production_per_person(Kg): Sugarcane production per person in kilograms.
