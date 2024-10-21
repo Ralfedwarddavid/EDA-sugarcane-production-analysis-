@@ -10,12 +10,12 @@ pip install pandas seaborn matplotlib
 # Dataset
 The dataset contains information about sugarcane production in various countries. It includes the following columns:
   
-  Country: The name of the country./n
-  Continent: The continent where the country is located.
-  Production(Tons): Total sugarcane production in tons.
-  Production_per_person(Kg): Sugarcane production per person in kilograms.
-  Acreage(Hectare): Total acreage of land used for sugarcane cultivation in hectares.
-  Yield(Kg/Hectare): Yield of sugarcane in kilograms per hectare.
+  Country: The name of the country.||
+  Continent: The continent where the country is located.||
+  Production(Tons): Total sugarcane production in tons.||
+  Production_per_person(Kg): Sugarcane production per person in kilograms.||
+  Acreage(Hectare): Total acreage of land used for sugarcane cultivation in hectares.||
+  Yield(Kg/Hectare): Yield of sugarcane in kilograms per hectare.||
 
 # Data Cleaning
 The initial data cleaning steps include removing unwanted characters (e.g., commas, dots) from numeric columns and dropping irrelevant columns. The future warnings during data cleaning are acknowledged but not significant to the analysis.
